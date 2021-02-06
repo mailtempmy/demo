@@ -1,2 +1,2 @@
-#LICENSE
+#XLICENSE
 Apache 2.0
