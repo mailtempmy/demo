@@ -1,4 +1,2 @@
 AZ# DEMO Project readme
-SOME ADDITIONS
-this is a simple readme fileX
-ZXC
+This is a troublesome line on master!
