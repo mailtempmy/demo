@@ -1,3 +1,3 @@
 DAAZ# DEMO Project readme
-SOME DIFFRIGHTHERYA
+mERGE CONflic!
 This is a troublesome line on master!
